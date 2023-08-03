@@ -1,0 +1,185 @@
+.container-register, .container-login{
+    font-family: "Poppins";
+}
+
+.container-register h3{
+    font-weight: 600;
+    font-size: 20px;
+    padding-bottom: 5px;
+}
+
+.container-register p{
+    font-size: 12px;
+    padding-bottom: 5px;
+}
+
+.container-register label{
+    font-size: 11px;
+    font-weight: 600;
+    color: #484848c0;
+    padding-bottom: 8px;
+}
+
+.container-register input{
+    box-sizing: border-box;
+    border-radius: 5px;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.container-register input:focus{
+    box-shadow: none;
+    border: 1px solid #20AFFF;
+    background-color: #ecf3fb;
+    color: #20AFFF;
+}
+
+.container-register select{
+    border-radius: 5px;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.container-register select:focus{
+    box-shadow: none;
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3e%3cpath fill='none' stroke='%232596be' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='m2 5 6 6 6-6'/%3e%3c/svg%3e");
+    border: 1px solid #20AFFF;
+    background-color: #ecf3fb;
+    color: #20AFFF;
+}
+
+.container-register option{
+    color: black;}
+
+.container-register button{
+    font-size: 12px;
+    font-weight: 500;
+    color: white;
+    width: 100%;
+    padding: 8px 30px;
+    border-radius: 30px;
+    background: linear-gradient(180deg, #00D1FF 0%, #20AFFF 100%);    
+    border: none;
+    box-shadow: none;
+}
+
+.container-register button:hover{
+    background: #17d5ff;
+    box-shadow: 0px 0px 10px 0px #70E2FF;
+}
+
+.container-register a{
+    color: #00aeff;
+    font-size: 12px;
+    text-decoration: none;
+}
+
+.container-register a:hover{
+    color: #17d5ff;
+}
+
+.container-image{
+    width: 35px;
+    height: 35px;
+    border-radius: 5px;
+    background: rgba(157, 249, 255, 0.20);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.title{
+    font-family: "Poppins";
+    font-weight: 600;
+    font-size: 15px;
+    color: white;
+}
+
+.title span{
+    color: #9DF9FF;
+}
+
+.container-register h2{
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+}
+
+.container-register .description{
+    padding-top: 10px;
+    color: rgba(255, 255, 255, 0.684);   
+}
+
+.container-register .copyright{
+    font-size: 12px;
+    color: white;
+    padding-top: 272px;
+    padding-bottom: 0px;
+}
+
+.container-login .labels{
+    font-size: 11px;
+    font-weight: 600;
+    color: #484848c0;
+    padding-bottom: 8px;
+}
+
+.container-login .form-control{
+    box-sizing: border-box;
+    border-radius: 5px;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.container-login .form-control:focus{
+    box-shadow: none;
+    border: 1px solid #20AFFF;
+    background-color: #ecf3fb;
+    color: #20AFFF;
+}
+
+.container-login .form-check-input:focus{
+    box-shadow: 0px 0px 5px 1px #70E2FF;
+    border: 1px solid #20AFFF;
+    background-color: #ecf3fb;
+    color: #ecf3fb;
+}
+
+.container-login .form-check-input:checked{
+    background-color: #20AFFF;
+    border: none; 
+}
+
+.container-login a{
+    color: #00aeff;
+    font-size: 12px;
+    text-decoration: none;
+    padding: 0px;
+}
+
+.container-login a:hover{
+    color: #17d5ff;
+}
+
+.container-login button{
+    font-size: 12px;
+    font-weight: 500;
+    color: white;
+    width: 100%;
+    padding: 8px 30px;
+    border-radius: 30px;
+    background: linear-gradient(180deg, #00D1FF 0%, #20AFFF 100%);    
+    border: none;
+    box-shadow: none;
+}
+
+.container-login button:hover{
+    background: linear-gradient(180deg, #17d5ff 0%, #17d5ff 100%);    
+    box-shadow: 0px 0px 10px 0px #70E2FF;
+    color: white;
+}
+
+.container-login .copyright{
+    font-size: 12px;
+    color: #848484c0;
+}

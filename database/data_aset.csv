@@ -1,0 +1,54 @@
+nama_item,jenis_item,kode_item,stok_item,image_path
+Camera,Multimedia,aset,8,/assets/img/portfolio/camera.png
+LCD Monitor,Multimedia,aset,16,/assets/img/portfolio/lcd_monitor.png
+Projector,Multimedia,aset,8,/assets/img/portfolio/projector.png
+Stage Monitor,Multimedia,aset,4,/assets/img/portfolio/stage_monitor.png
+Video Wall,Multimedia,aset,2,/assets/img/portfolio/video_wall.png
+Webcam,Multimedia,aset,6,/assets/img/portfolio/webcam.png
+Active Speaker,Audio,aset,4,/assets/img/portfolio/active_speaker.png
+Clip on Mic,Audio,aset,6,/assets/img/portfolio/clipon_mic.png
+FOH Speaker,Audio,aset,4,/assets/img/portfolio/foh_speaker.png
+Handy Talky,Audio,aset,10,/assets/img/portfolio/handy_talky.png
+Handheld Mic,Audio,aset,4,/assets/img/portfolio/hendheld_mic.png
+Megaphone,Audio,aset,2,/assets/img/portfolio/megaphone.png
+Mixer,Audio,aset,2,/assets/img/portfolio/mixer.png
+Portable Speaker,Audio,aset,2,/assets/img/portfolio/portable_speaker.png
+Fresnel Light,Pencahayaan,aset,4,/assets/img/portfolio/fresnel_light.png
+Video Light,Pencahayaan,aset,4,/assets/img/portfolio/video_light.png
+HDMI,Kabel,aset,16,/assets/img/portfolio/hdmi.png
+Power Cord,Kabel,aset,10,/assets/img/portfolio/power_cord.png
+RCA Connector,Kabel,aset,6,/assets/img/portfolio/rca_connector.png
+Snake Cable,Kabel,aset,2,/assets/img/portfolio/snake_cable.png
+Ruang Aula,Ruangan,ruang,10,/assets/img/portfolio/aula.jpg
+Ruang Kelas 1.01,Ruangan,ruang,1,/assets/img/portfolio/kelas.jpg
+Ruang Kelas 1.02,Ruangan,ruang,1,/assets/img/portfolio/kelas.jpg
+Ruang Kelas 1.03,Ruangan,ruang,1,/assets/img/portfolio/kelas.jpg
+Ruang Kelas 1.04,Ruangan,ruang,1,/assets/img/portfolio/kelas.jpg
+Ruang Kelas 1.05,Ruangan,ruang,1,/assets/img/portfolio/kelas.jpg
+Ruang Kelas 1.06,Ruangan,ruang,1,/assets/img/portfolio/kelas.jpg
+Ruang Kelas 1.07,Ruangan,ruang,1,/assets/img/portfolio/kelas.jpg
+Ruang Kelas 1.08,Ruangan,ruang,1,/assets/img/portfolio/kelas.jpg
+Ruang Kelas 1.09,Ruangan,ruang,1,/assets/img/portfolio/kelas.jpg
+Ruang Kelas 1.10,Ruangan,ruang,1,/assets/img/portfolio/kelas.jpg
+Ruang Kelas 1.11,Ruangan,ruang,1,/assets/img/portfolio/kelas.jpg
+Ruang Kelas 1.12,Ruangan,ruang,1,/assets/img/portfolio/kelas.jpg
+Ruang Kelas 1.13,Ruangan,ruang,1,/assets/img/portfolio/kelas.jpg
+Ruang Kelas 1.14,Ruangan,ruang,1,/assets/img/portfolio/kelas.jpg
+Ruang Kelas 1.15,Ruangan,ruang,1,/assets/img/portfolio/kelas.jpg
+Ruang Kelas 1.16,Ruangan,ruang,1,/assets/img/portfolio/kelas.jpg
+Ruang Kelas 2.01,Ruangan,ruang,1,/assets/img/portfolio/kelas.jpg
+Ruang Kelas 2.02,Ruangan,ruang,1,/assets/img/portfolio/kelas.jpg
+Ruang Kelas 2.03,Ruangan,ruang,1,/assets/img/portfolio/kelas.jpg
+Ruang Kelas 2.04,Ruangan,ruang,1,/assets/img/portfolio/kelas.jpg
+Ruang Kelas 2.05,Ruangan,ruang,1,/assets/img/portfolio/kelas.jpg
+Ruang Kelas 2.06,Ruangan,ruang,1,/assets/img/portfolio/kelas.jpg
+Ruang Kelas 2.07,Ruangan,ruang,1,/assets/img/portfolio/kelas.jpg
+Ruang Kelas 2.08,Ruangan,ruang,1,/assets/img/portfolio/kelas.jpg
+Ruang Kelas 2.09,Ruangan,ruang,1,/assets/img/portfolio/kelas.jpg
+Ruang Kelas 2.10,Ruangan,ruang,1,/assets/img/portfolio/kelas.jpg
+Ruang Kelas 2.11,Ruangan,ruang,1,/assets/img/portfolio/kelas.jpg
+Ruang Kelas 2.12,Ruangan,ruang,1,/assets/img/portfolio/kelas.jpg
+Ruang Kelas 2.13,Ruangan,ruang,1,/assets/img/portfolio/kelas.jpg
+Ruang Kelas 2.14,Ruangan,ruang,1,/assets/img/portfolio/kelas.jpg
+Ruang Kelas 2.15,Ruangan,ruang,1,/assets/img/portfolio/kelas.jpg
+Ruang Kelas 2.16,Ruangan,ruang,1,/assets/img/portfolio/kelas.jpg
